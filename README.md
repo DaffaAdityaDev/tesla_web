@@ -1,7 +1,7 @@
 # Next dumy netflix
 ![alt text](/public/Capture.JPG)
-clone [Tesla Page](https://www.tesla.com/) design 
-[Demo link](https://teslaminiweb.netlify.app/)
+clone [Tesla Page](https://www.tesla.com/) design.
+try me [Demo link](https://teslaminiweb.netlify.app/)
 
 ## Features
  - Styled with styled components
